@@ -1,6 +1,5 @@
 from PyQt5.Qt import *
 import pyperclip as pc
-import numpy as np
 
 
 class Widget(QWidget):
